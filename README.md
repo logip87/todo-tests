@@ -4,7 +4,7 @@ Tests are running in **Chrome** browser.
 
 ## How to run the tests?
 
-Please run `npm i` command before starting tests.
+After cloning repository, please run `npm i` command before starting tests.
 
 - `npm run cy:run` to run tests headlessly.
 - `npm run cy:open` to open Cypress(Does not generate report).
