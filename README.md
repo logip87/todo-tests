@@ -14,3 +14,7 @@ After cloning repository, please run `npm i` command before starting tests.
 - The **cypress/report** folder contains already finished report.
 - HTML report is generated after all the tests are done and is located in **cypress/report** folder.
 - Previous report will be **overwritten** by running tests.
+
+## Report screenshot
+
+![Report screenshot](/cypress/report/report.png?raw=true)
